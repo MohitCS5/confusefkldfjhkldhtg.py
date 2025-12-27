@@ -46,7 +46,7 @@ for text, color in buttons:
               width=12, height=2, relief="raised",
               command=lambda c=text.split()[1]: play(c)).pack(pady=5)
 
-footer = tk.Label(root, text="Made by You ✨", font=("Arial", 10), fg="gray", bg="#1e1e2f")
 footer.pack(side="bottom", pady=10)
 
 root.mainloop()
+
