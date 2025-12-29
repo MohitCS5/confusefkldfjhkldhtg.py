@@ -1,51 +1,44 @@
-🐍 Snake Game (Pygame)
+# 🐍 Snake Game (Pygame)
 
-A classic Snake Game implemented in Python using the Pygame library.
-The player controls a snake that grows in length by eating food while avoiding collisions with walls and itself.
+A classic **Snake Game** built using **Python** and the **Pygame** library.  
+Control the snake, eat food to grow longer, and avoid crashing into walls or yourself.
 
-📌 Features
 
-Smooth grid-based snake movement
+## 📌 Features
+- Smooth grid-based snake movement  
+- Random food generation  
+- Real-time score tracking  
+- Game-over detection (wall & self collision)  
+- Restart game using keyboard input  
 
-Random food generation
+---
 
-Score tracking
+## 🎮 Controls
 
-Game over detection (wall & self-collision)
+| Key | Action |
+|---|---|
+| ⬆️ Up Arrow | Move Up |
+| ⬇️ Down Arrow | Move Down |
+| ⬅️ Left Arrow | Move Left |
+| ➡️ Right Arrow | Move Right |
+| Space | Restart after Game Over |
 
-Restart game using keyboard input
+---
 
-Adjustable game speed
+## 🛠️ Requirements
+- Python **3.8+**
+- Pygame library
 
-🎮 Controls
-Key	Action
-⬆️ Up Arrow	Move Up
-⬇️ Down Arrow	Move Down
-⬅️ Left Arrow	Move Left
-➡️ Right Arrow	Move Right
-Space	Restart after Game Over
-🛠️ Requirements
-
-Python 3.8+
-
-Pygame library
-
-Install Pygame using:
+Install Pygame:
+```bash
+## ▶️ How to Run
 
 pip install pygame
-
-▶️ How to Run
-
-Clone the repository:
-
 git clone https://github.com/MohitCS5/confusefkldfjhkldhtg.py.git
-
-
-Navigate to the project folder:
-
-cd snake-game
-
-
-Run the game:
-
+cd snake-game-pygame
 python snake.py
+
+
+
+
+
