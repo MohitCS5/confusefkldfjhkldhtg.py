@@ -31,14 +31,14 @@ Control the snake, eat food to grow longer, and avoid crashing into walls or you
 
 Install Pygame:
 ```bash
+## ▶️ How to Run
+
 pip install pygame
-To download pygame library
-2nd --- clone the repository:
-git clone https://github.com/MohitCS5/confusefkldfjhkldhtg.py.git
-3rd --- Then navigate to the project folder
+git clone https://github.com/MohitCS5/snake-game-pygame.git
 cd snake-game-pygame
-And the last : Run the game:
 python snake.py
+
+
 
 
 
