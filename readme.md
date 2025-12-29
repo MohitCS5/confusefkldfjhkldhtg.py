@@ -34,9 +34,10 @@ Install Pygame:
 ## ▶️ How to Run
 
 pip install pygame
-git clone https://github.com/MohitCS5/snake-game-pygame.git
+git clone https://github.com/MohitCS5/confusefkldfjhkldhtg.py.git
 cd snake-game-pygame
 python snake.py
+
 
 
 
