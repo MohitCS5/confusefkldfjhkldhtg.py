@@ -3,12 +3,6 @@
 A classic **Snake Game** built using **Python** and the **Pygame** library.  
 Control the snake, eat food to grow longer, and avoid crashing into walls or yourself.
 
----
-
-## 🎮 Gameplay
-![Snake Game Gameplay](assets/snake-game.gif)
-
----
 
 ## 📌 Features
 - Smooth grid-based snake movement  
@@ -16,7 +10,6 @@ Control the snake, eat food to grow longer, and avoid crashing into walls or you
 - Real-time score tracking  
 - Game-over detection (wall & self collision)  
 - Restart game using keyboard input  
-- Adjustable game speed  
 
 ---
 
@@ -39,3 +32,13 @@ Control the snake, eat food to grow longer, and avoid crashing into walls or you
 Install Pygame:
 ```bash
 pip install pygame
+To download pygame library
+2nd --- clone the repository:
+git clone https://github.com/MohitCS5/confusefkldfjhkldhtg.py.git
+3rd --- Then navigate to the project folder
+cd snake-game-pygame
+And the last : Run the game:
+python snake.py
+
+
+
