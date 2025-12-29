@@ -42,3 +42,7 @@ python snake.py
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b7559eacd962006997afe4c52d2eda8d43335871
