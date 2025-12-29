@@ -58,5 +58,6 @@ Double-click SnakeGame.exe in **dist** folder to start the game.
 ## 👤 Author
 
 **Mohit**  
-This project was created as part of my learning journey in Python and game development.  
+This project was created as part of my learning and practice.
 GitHub: [@MohitCS5](https://github.com/MohitCS5)
+
