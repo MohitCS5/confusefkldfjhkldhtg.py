@@ -54,3 +54,9 @@ Double-click SnakeGame.exe in **dist** folder to start the game.
 - Works on **Windows only**
 - If Windows SmartScreen appears, click **More info → Run anyway**
 
+
+## 👤 Author
+
+**Mohit**  
+This project was created as part of my learning journey in Python and game development.  
+GitHub: [@MohitCS5](https://github.com/MohitCS5)
