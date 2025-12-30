@@ -1,21 +1,19 @@
 import pygame
 import random
 
-# Setup
 pygame.init()
 w, h = 600, 400
 screen = pygame.display.set_mode((w, h))
 pygame.display.set_caption("Snake")
 clock = pygame.time.Clock()
 
-# Game vars
 snake = [[100, 100], [80, 100], [60, 100]]
 food = [300, 200]
 dx, dy = 20, 0
 score = 0
 game_over = False
 
-# Colors
+#-----colors
 black = (0, 0, 0)
 green = (0, 255, 0)
 red = (255, 0, 0)
@@ -24,7 +22,6 @@ white = (255, 255, 255)
 # Main loop
 running = True
 while running:
-    # Events
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
