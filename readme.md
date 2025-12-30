@@ -36,7 +36,7 @@ Install Pygame:
 pip install pygame
 git clone https://github.com/MohitCS5/confusefkldfjhkldhtg.py.git
 cd snake-game-pygame
-python snake.py
+python snake_game.py
 ```
 Option 2: Run the Windows Executable (No Python Required)
 
@@ -61,5 +61,6 @@ Double-click SnakeGame.exe in **dist** folder to start the game.
 This project was created as part of my learning and practice.
 
 GitHub: [@MohitCS5](https://github.com/MohitCS5)
+
 
 
