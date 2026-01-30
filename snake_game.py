@@ -78,6 +78,6 @@ while running:
         screen.blit(text, (w//2 - 150, h//2))
     
     pygame.display.flip()
-    clock.tick(8)  # Slower speed
+    clock.tick(8)  
 
 pygame.quit()
